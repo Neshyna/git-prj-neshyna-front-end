@@ -57,6 +57,4 @@ const getWeatherFunction = async () => {
   }
 };
 
-//setInterval(getWeather, 10);
-
 getWeather.addEventListener("click", getWeatherFunction);

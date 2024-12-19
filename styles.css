@@ -29,7 +29,7 @@ li {
   flex-wrap: wrap;
   width: 100%;
   height: 100%;
-  background-image: url(/lesson19/img/img.jpg);
+  background-image: url(img.jpg);
   background-size: cover;
 }
 
